@@ -37,17 +37,8 @@ I build focused software spanning native macOS utilities, modern web application
 
 ---
 
-### 🎓 Education & Certifications
-
-- **B.Tech (Bachelor of Technology)** — Amal Jyothi College of Engineering *(2025 – 2029)*
-- **Higher Secondary Education** — Carmel CMI Public School, Kerala
-- **Certifications:** Google Career Certificates & Coursera Technical Specializations
-
----
-
 ### 📬 Get in Touch
 
 - **Portfolio:** [aldrinkjohni.com](https://www.aldrinkjohni.com)
 - **LinkedIn:** [linkedin.com/in/aldrin-k-johni-akjs345](https://www.linkedin.com/in/aldrin-k-johni-akjs345)
 - **Email:** [aldrinkjohni@gmail.com](mailto:aldrinkjohni@gmail.com)
-- **Location:** Kottayam, Kerala, India
